@@ -25,7 +25,7 @@ export default class Login extends React.Component {
 
                 <button type="submit" className="btn btn-primary btn-block">Submit</button>
                 <p className="forgot-password text-right">
-                    Forgot <a href="#">password?</a>
+                    Forgot <a href="/">password?</a>
                 </p>
                 <p className="forgot-password text-right">
                     New User <a href="/register">SignUp?</a>
